@@ -49,11 +49,10 @@ W|W|4|4|2|6|True
 W|L|4|4|5|3|True
 W|D|4|4|3|4|True
 
-Ties 3, Clear 0, Total 9
-
-Clear Chance: 0.00%;
-Total Chance: 33.33%;
-Games remaining: 1
+- Ties: 3, Clear: 0, Total: 9
+- Clear Chance: 0.00%
+- Total Chance: 33.33%
+- Games Remaining: 1
 
 ## US Advances
 WL-EN|IR-US|WL|EN|US|IR|Tie
@@ -62,8 +61,7 @@ W|L|4|4|5|3|True
 L|L|1|7|5|3|False
 D|L|2|5|5|3|False
 
-Ties 1, Clear 2, Total 9
-
-Clear Chance: 22.22%;
-Total Chance: 33.33%;
-Games remaining: 1
+- Ties: 1, Clear: 2, Total: 9
+- Clear Chance: 22.22%
+- Total Chance: 33.33%
+- Games Remaining: 1
