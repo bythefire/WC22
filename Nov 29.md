@@ -7,15 +7,14 @@
 	- US must win to advance
 
 ## GROUP A
-SN 4 44.44%
-EC 7 77.78%
+SN 4 44.44%;
+EC 7 77.78%;
 NL 9 100.00%
-Eliminated: QA
 
 ## GROUP B
-WL 3 33.33%
-US 3 33.33%
-IR 6 66.67%
+WL 3 33.33%;
+US 3 33.33%;
+IR 6 66.67%;
 EN 9 100.00%
 
 ## GROUP A : EC vs SN
@@ -46,9 +45,10 @@ W|W|4|4|2|6|True
 W|L|4|4|5|3|True
 W|D|4|4|3|4|True
 
-Ties 3 Clear 0 Total 9
-Clear Chance: 0.00%
-Total Chance: 33.33%
+Ties 3, Clear 0, Total 9
+
+Clear Chance: 0.00%;
+Total Chance: 33.33%;
 Games remaining: 1
 
 ## US Advances
@@ -58,7 +58,8 @@ W|L|4|4|5|3|True
 L|L|1|7|5|3|False
 D|L|2|5|5|3|False
 
-Ties 1 Clear 2 Total 9
-Clear Chance: 22.22%
-Total Chance: 33.33%
+Ties 1, Clear 2, Total 9
+
+Clear Chance: 22.22%;
+Total Chance: 33.33%;
 Games remaining: 1
