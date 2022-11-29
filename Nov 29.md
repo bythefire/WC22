@@ -3,19 +3,23 @@
 	- EC need a win or draw to advance. SN need a win to advance.
 	- NL already advancing, QA already eliminated
 - Group B
-	- Wales must defeat England with a healthy goal difference to have a chance at advancing. Wales will either tie with EN or tie with both EN and IR. Wales are almost certainly out of the tournament
+	- Wales must defeat England with a healthy goal difference to have a chance at advancing. If they win, Wales will either tie with EN or tie with both EN and IR. Wales are almost certainly out of the tournament
 	- US must win to advance
 
 ## GROUP A
-SN 4 44.44%;
-EC 7 77.78%;
-NL 9 100.00%
+Team|Chances|Probability
+-|-|-
+SN|4/9|44.44%
+EC|7/9|77.78%
+NL|9/9|100.00%
 
 ## GROUP B
-WL 3 33.33%;
-US 3 33.33%;
-IR 6 66.67%;
-EN 9 100.00%
+Team|Chances|Probability
+-|-|-
+WL|3/9|33.33%
+US|3/9|33.33%
+IR|6/9|66.67%
+EN|9/9|100.00%
 
 ## GROUP A : EC vs SN
 Result | QA | NL | SN | EC
