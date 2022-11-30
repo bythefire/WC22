@@ -1,5 +1,4 @@
 # Nov 30 Outlook
-It looks like {PL, SA} will advance from group C and {FR, AU} will advance from group D.
 
 ## GROUP C
 - If PL wins, AR is eliminated
