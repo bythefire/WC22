@@ -3,7 +3,7 @@ It looks like {PL, SA} will advance from group C and {FR, AU} will advance from 
 
 ## GROUP C
 - If PL wins, AR is eliminated
-	- AR must win or draw to [advance](#-AR-Advances)
+	- AR must win or draw to [advance](###-AR-Advances)
 - If PL loses and SA wins, PL is out
 - MX must win to [advance](#-MX-Advances)
 
