@@ -3,9 +3,9 @@ It looks like {PL, SA} will advance from group C and {FR, AU} will advance from 
 
 ## GROUP C
 - If PL wins, AR is eliminated
-	- AR must win or draw to [advance](###-AR-Advances)
+	- AR must win or draw to advance
 - If PL loses and SA wins, PL is out
-- MX must win to [advance](#-MX-Advances)
+- MX must win to advance
 
 Team|Chances|Probability
 -|-|-
@@ -91,7 +91,7 @@ D|D|4|4|2|5|True
 - TN need to win against FR and then win a tie-breaker to avoid elimination. Their bags are probably already packed
 - DK need to win against AU to avoid elimination
 	- If TN and DK win their game, DK and TN will be tied on points
-- AU advance with a win or draw but will need a tie-breaker if TN win against FR
+- AU advance with a win or draw but may need a tie-breaker if they draw and TN win against FR
 
 Team|Chances|Probability
 -|-|-
