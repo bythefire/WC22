@@ -61,6 +61,9 @@ D|D|4|7|2|2|False
 - GH advance with a win
 	- Advance with a draw if PT win
 - PT advances
+	- There's a chance PT will play BR next in the round of 16!
+		- [PT-BR Relations](https://en.wikipedia.org/wiki/Brazil–Portugal_relations)
+		- PT and BR both need to win their groups to avoid playing each other next
 
 Team|Chances|Probability
 -|-|-
